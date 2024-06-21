@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #homeassistant/home-assistant
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
+xhofe/alist
