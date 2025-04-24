@@ -7,4 +7,6 @@
 #homeassistant/home-assistant
 #cloudnas/clouddrive2
 #xhofe/alist
-oaooa/pichome 
+#oaooa/pichome 
+ghcr.io/immich-app/immich-server
+ghcr.io/immich-app/immich-machine-learning
