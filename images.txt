@@ -8,5 +8,5 @@
 #cloudnas/clouddrive2
 #xhofe/alist
 #oaooa/pichome 
-immich-app/immich-server
-immich-app/immich-machine-learning
+immich-server
+immich-machine-learning
