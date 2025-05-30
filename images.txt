@@ -8,5 +8,10 @@
 #cloudnas/clouddrive2
 #xhofe/alist
 #oaooa/pichome 
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
+#ghcr.io/immich-app/immich-server:release
+#ghcr.io/immich-app/immich-machine-learning:release
+
+# dvadmin - 20250530
+nginx:1.25.3-alpine
+registry.cn-zhangjiakou.aliyuncs.com/dvadmin-pro/dvadmin3-base-backend:latest
+registry.cn-zhangjiakou.aliyuncs.com/dvadmin-pro/dvadmin3-base-web:16.19-alpine
