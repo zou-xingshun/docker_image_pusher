@@ -15,4 +15,5 @@
 # nginx:1.25.3-alpine
 # registry.cn-zhangjiakou.aliyuncs.com/dvadmin-pro/dvadmin3-base-backend:latest
 # registry.cn-zhangjiakou.aliyuncs.com/dvadmin-pro/dvadmin3-base-web:16.19-alpine
-mysql:5.7
+# mysql:5.7
+python:3.8-slim
