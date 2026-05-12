@@ -19,5 +19,6 @@
 # python:3.8-slim
 # registry.cn-zhangjiakou.aliyuncs.com/dvadmin-pro/dvadmin3-base-web:18.20-alpine
 # nginx:alpine
-python:3
-python:3.6.8
+# python:3
+# python:3.6.8
+halohub/halo:2.24.2
