@@ -21,4 +21,8 @@
 # nginx:alpine
 # python:3
 # python:3.6.8
-halohub/halo:2.24.2
+# halohub/halo:2.24.2
+elasticsearch:9.4.4
+kibana:9.4.4
+logstash:9.4.4
+filebeat:9.4.4
