@@ -26,5 +26,8 @@
 # kibana:9.4.4
 # logstash:9.4.4
 # docker.elastic.co/beats/filebeat:9.4.4
-ollama/ollama
-ghcr.io/open-webui/open-webui:main
+# ollama/ollama
+# ghcr.io/open-webui/open-webui:main
+openjdk:17
+nacos/nacos-server:v3.0.2
+nginx:1.25
